@@ -28,10 +28,10 @@ Regardless of whether you are admitted to Tier 2 or not, if you have participate
 | 2024-09-18 | 3:30 - 4:30 pm ET | Monika |  [`r fontawesome::fa(name = "video")`](https://vassar.zoom.us/my/monika76five)        |
 | 2024-09-26 | 2:00 - 3:00 pm ET  | Mine    |[`r fontawesome::fa(name = "video")`](https://uci.zoom.us/j/91799232149)          |
 | 2024-10-07 | 3:30 - 4:30 pm ET | Monika |  [`r fontawesome::fa(name = "video")`](https://vassar.zoom.us/my/monika76five)        |
-| 2024-10-15 | 3:00 - 4:00 pm ET      | Amy |         |
+| 2024-10-15 | 3:00 - 4:00 pm ET      | Amy |     [`r fontawesome::fa(name = "video")`](https://duke.zoom.us/my/amyherring?pwd=UWczUjFOOXZ2MlhuYTMrLzVka05sQT09) password 11111     |
 | 2024-10-2? | | Mine | |
 | 2024-11-0? | | Mine | |
-| 2024-11-12 | 3:00 - 4:00 pm ET      | Amy |         |
+| 2024-11-12 | 3:00 - 4:00 pm ET      | Amy |   [`r fontawesome::fa(name = "video")`](https://duke.zoom.us/my/amyherring?pwd=UWczUjFOOXZ2MlhuYTMrLzVka05sQT09) password 11111       |
 | 2023-11-20 | 3:30 - 4:30 pm ET | Monika |  [`r fontawesome::fa(name = "video")`](https://vassar.zoom.us/my/monika76five)        |
 
 
